@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "./lib",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": ["es6", "dom", "es2015.iterable", "es2015.promise"]
+  },
+  "exclude": [
+    "node_modules",
+    "lib",
+    "test",
+    "coverage",
+    "example",
+    "browser-test"
+  ]
+}
