@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/yagajs/leaflet-cached-tile-layer.svg?branch=develop)](https://travis-ci.org/yagajs/leaflet-cached-tile-layer)
 [![Coverage Status](https://coveralls.io/repos/github/yagajs/leaflet-cached-tile-layer/badge.svg?branch=develop)](https://coveralls.io/github/yagajs/leaflet-cached-tile-layer?branch=develop)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyagajs%2Fleaflet-cached-tile-layer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyagajs%2Fleaflet-cached-tile-layer?ref=badge_shield)
 
 A cached tile-layer for [Leaflet](http://leafletjs.com/) realized with the browsers IndexedDB over
 [@yaga/indexed-db-tile-cache](https://www.npmjs.com/package/@yaga/indexed-db-tile-cache).
@@ -97,3 +98,5 @@ to fulfill the software tests.
 
 This library is under [ISC License](https://spdx.org/licenses/ISC.html) © by Arne Schubert and the YAGA Development
 Team.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyagajs%2Fleaflet-cached-tile-layer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyagajs%2Fleaflet-cached-tile-layer?ref=badge_large)
